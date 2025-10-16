@@ -1,3 +1,5 @@
+# NOTE: assignment requirement — modified on <오늘날짜>
+
 
 #!/usr/bin/env python3
 # Joint Token Producer (A4 label-enabled)
