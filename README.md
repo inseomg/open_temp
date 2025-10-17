@@ -10,7 +10,7 @@ opensource project in school
 ---
 
 ## 폴더 구조
-```text
+'''text
 .
 ├─ src/
 │  └─ jtfa/
@@ -46,4 +46,4 @@ python src/jtfa/producer.py --demo | python src/jtfa/fusion.py --demo
 
 대역 근사: kbps ≈ r × d × 4B × 8 / 1000 → d=16, r=5 → ≈ 2.56 kbps (메타 포함 실측 ≈5.5 kbps)
 
-
+실험 환경 : tmux 와 nmap 을 이용해 연결. 추가로 rpi 4 3대 rpi 5 2대를 이용하여 producer, fusion node 생성하여 진행.
